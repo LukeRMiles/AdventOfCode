@@ -1,1 +1,3 @@
 *.txt
+__pycache__/
+.aoc_session
